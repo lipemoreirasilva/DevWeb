@@ -1,2 +1,2 @@
 # DevWeb
-Projetos sobre curso de desenvolvimento Web
+Projeto 1 bem básico para aplicar alguns conceitos de HTML
